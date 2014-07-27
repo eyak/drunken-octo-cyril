@@ -3,6 +3,6 @@ drunken-octo-cyril
 
 Some text
 
-[second.md](second)
+[Another page](second.md)
 
 
