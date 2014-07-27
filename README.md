@@ -3,4 +3,6 @@ drunken-octo-cyril
 
 Some text
 
-[second.md]
+[second.md](second)
+
+
